@@ -1,4 +1,8 @@
 Android_Source_Script
 =====================
 
-Android source download script
+# Script to download android source
+# Autor : Kingsley Yau
+# Email : KingsleyYau@gmail.com
+# Version : 1.0
+# Date : 13th Jun,2014
